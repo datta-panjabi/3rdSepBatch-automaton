@@ -1,0 +1,20 @@
+2023-05-28 10:02:28,456  INFO [main] Ecommerce_project_3rdSepBatch:29 - browser has opend
+2023-05-28 10:02:33,455  INFO [main] Ecommerce_project_3rdSepBatch:37 - Url is entered
+2023-05-28 10:02:33,622  INFO [main] Ecommerce_project_3rdSepBatch:44 - Browser is maximized
+2023-05-28 10:02:33,813  INFO [main] Ecommerce_project_3rdSepBatch:49 - Username is entered
+2023-05-28 10:02:33,875  INFO [main] Ecommerce_project_3rdSepBatch:55 - Password is entered
+2023-05-28 10:02:33,971  INFO [main] Ecommerce_project_3rdSepBatch:57 - log in activity is performed
+2023-05-28 10:02:34,041  INFO [main] Ecommerce_project_3rdSepBatch:78 - Clicked on addto cart button successfully
+2023-05-28 10:02:34,069  INFO [main] Ecommerce_project_3rdSepBatch:83 - ============validation for add to cart Functionality==========
+2023-05-28 10:02:34,203  INFO [main] Ecommerce_project_3rdSepBatch:100 - browser has closed
+2023-05-28 10:02:34,204  INFO [main] Ecommerce_project_3rdSepBatch:101 - End of Program
+2023-05-28 10:42:31,690  INFO [main] Ecommerce_project_3rdSepBatch:30 - browser has opend
+2023-05-28 10:42:34,723  INFO [main] Ecommerce_project_3rdSepBatch:38 - Url is entered
+2023-05-28 10:42:34,896  INFO [main] Ecommerce_project_3rdSepBatch:45 - Browser is maximized
+2023-05-28 10:42:35,061  INFO [main] Ecommerce_project_3rdSepBatch:50 - Username is entered
+2023-05-28 10:42:35,132  INFO [main] Ecommerce_project_3rdSepBatch:56 - Password is entered
+2023-05-28 10:42:35,230  INFO [main] Ecommerce_project_3rdSepBatch:58 - log in activity is performed
+2023-05-28 10:42:35,289  INFO [main] Ecommerce_project_3rdSepBatch:79 - Clicked on addto cart button successfully
+2023-05-28 10:42:35,316  INFO [main] Ecommerce_project_3rdSepBatch:84 - ============validation for add to cart Functionality==========
+2023-05-28 10:42:35,467  INFO [main] Ecommerce_project_3rdSepBatch:103 - browser has closed
+2023-05-28 10:42:35,467  INFO [main] Ecommerce_project_3rdSepBatch:104 - End of Program
